@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573772620833.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1261851065",
+    "id" : "B3F22D74",
+    "lastKnownWriteTime" : 1573773370,
+    "last_content_update" : 1573773370719,
+    "path" : "D:/R작업/Practice_Chap11(회귀분석)/ex06.R",
+    "project_path" : "ex06.R",
+    "properties" : {
+        "cursorPosition" : "12,12",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
